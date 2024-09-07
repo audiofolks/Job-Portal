@@ -30,8 +30,3 @@ Job Listings: The application displays job listings with detailed information ab
 ![Screenshot](https://i.ibb.co/dLdFmWL/User-Page-Dark.png)
 **UserPage(White)**
 ![Screenshot](https://i.ibb.co/Hg57tfb/User-Page-White.png)
-
-## Authors
-
-- [@aries-surya](https://www.github.com/aries-surya)
-
